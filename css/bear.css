@@ -10,3 +10,8 @@ html {
 
 /* Write your solution here */
 
+@media (min-wdith: 1196px){
+  
+  left: 800px;
+  
+}
