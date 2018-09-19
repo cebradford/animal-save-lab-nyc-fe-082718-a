@@ -12,6 +12,8 @@ html {
 
 @media (min-wdith: 1196px){
   
-  left: 800px;
+ #bear img{
+   left: 800px;
+ } 
   
 }
