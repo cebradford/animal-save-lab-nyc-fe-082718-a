@@ -13,6 +13,6 @@ html {
 @media (max-width: 800px){
   #ostrich img{
     position: absolute;
-  top: 0px;
+  top: 200px;
   }
 }
